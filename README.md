@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hey there! 👋
 
-<!--
-**CristiH97/CristiH97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Cristian, a computer science graduate based in the Netherlands.
 
-Here are some ideas to get you started:
+I enjoy building cool web apps and working across backend and frontend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If I have an idea, I usually turn it into a project.
+
+Right now, I’m working on **PhotoVault** 📸, a photo-sharing app where users can upload, download, and share photos.
+
+My main tech stack is **Laravel, Vue.js, JavaScript, and PHP**.  
+Other tools I regularly use include **Python, Java, Git, AWS, HTML/CSS, and Figma**.
+
+During my studies, I collaborated with companies on several projects. I like building things that are practical and actually used by real people.
+
+Feel free to contact me for any questions, ideas, or collaboration opportunities.
+
+### Fun facts:
+
+- I enjoy strategy or puzzle games  
+- I hate olives  
+- GoT is my favorite series  
+- Hobbies: tennis, building projects, gaming  
