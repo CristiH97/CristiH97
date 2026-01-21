@@ -9,7 +9,7 @@ If I have an idea, I usually turn it into a project.
 Right now, I’m working on **PhotoVault** 📸, a photo-sharing app where users can upload, download, and share photos.
 
 My main tech stack is **Laravel, Vue.js, JavaScript, and PHP**.  
-Other tools I regularly use include **Python, Java, Git, AWS, HTML/CSS, and Figma**.
+Other tools I regularly use include **Python, Java, Git, AWS, and Figma**.
 
 During my studies, I collaborated with companies on several projects. I like building things that are practical and actually used by real people.
 
