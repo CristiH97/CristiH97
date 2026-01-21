@@ -2,7 +2,7 @@
 
 I’m Cristian, a computer science graduate based in the Netherlands.
 
-I enjoy building cool web apps and working across backend and frontend.
+I enjoy building cool web apps and jumping between frontend and backend work.
 
 If I have an idea, I usually turn it into a project.
 
